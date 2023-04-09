@@ -383,7 +383,7 @@ select, button{
     background-position: center;
     color: white;
     text-align: center;
-    padding-top: 150px;
+    padding-top: 250px;
 }
 
 .dox-group{
@@ -705,4 +705,44 @@ header h2{
     background-image: url('../assets/currently_playing_icon.svg');
     background-position: center;
     background-size: cover;
+}
+
+.tele{
+    width: 30px;
+    height: 30px;
+    background-image: url('../assets/phone_icon.svg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    margin-left: 250px;
+    margin-top: -35px;
+    cursor: pointer;
+}
+.email{
+    width: 30px;
+    height: 30px;
+    background-image: url('../assets/email_icon.svg');
+    background-position: center;
+    background-size: cover;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.eminfo{
+    width: 100%;
+    height: 30px;
+    margin-left: 40px;
+    margin-top: -25px;
+    cursor: pointer;
+}
+.telefo{
+    width: 100%;
+    height: 30px;
+    margin-left: 300px;
+    margin-top: -30px;
+    cursor: pointer;
+}
+
+.favtex{
+    font-weight: bold;
 }
