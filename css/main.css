@@ -398,6 +398,7 @@ select, button{
     background-color: #0b0c10;
     color: white;
     margin: 0 auto;
+    float: right;
 }
 
 .materofpuppet{
@@ -611,6 +612,24 @@ header h2{
     color: white;
 }
 
+.myfavorite{
+    width: 30%;
+    height: 50px;
+    margin-left: 20px;
+    margin-bottom: -2px;
+}
 
+.suggested{
+    width: 30%;
+    height: 50px;
+    margin-left: 390px;
+    margin-top: -60px;
+}
 
+.classic{
+    width: 30%;
+    height: 50px;
+    margin-left: 200px;
+    margin-top: -50px;
+}
 
